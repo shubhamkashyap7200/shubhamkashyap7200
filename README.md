@@ -24,6 +24,7 @@
 
 <br>
 <hr>
+
 ### :hammer_and_wrench: Languages and Tecnologies :
 <div id = "languageAndTechnologies" style = "pointer-events: none;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50" style = "pointer-events: none;"/>   
@@ -41,6 +42,7 @@
 
 <br>
 <hr>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkashyap7200&theme=gruvbox&border_radius=10.0&background=2D0064)](https://git.io/streak-stats)
