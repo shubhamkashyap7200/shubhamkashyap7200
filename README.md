@@ -1,7 +1,9 @@
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif" width="200"/> -->
-   <img src="https://pbs.twimg.com/media/FfarfQZX0AADrKJ?format=jpg&name=large" width="400"/>
+<!--    <img src="https://pbs.twimg.com/media/FfarfQZX0AADrKJ?format=jpg&name=large" width="400"/> -->
+   <img src="https://media.giphy.com/media/1jvGYC4RX0FFa1RsLS/giphy.gif" width="100%" height = "10%"/>
 </div>
 
 <br>
@@ -21,5 +23,15 @@
   </a>
 </div>
 
-
+### :hammer_and_wrench: Languages and Tecnologies :
+<div id = "languageAndTechnologies"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>   
+</div>          
 <!-- https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif -->
