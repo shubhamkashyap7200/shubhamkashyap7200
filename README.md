@@ -1,11 +1,12 @@
-### Hi there 👋
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif" width="200"/> -->
    <img src="https://pbs.twimg.com/media/FfarfQZX0AADrKJ?format=jpg&name=large" width="400"/>
 </div>
 
-<div id="badges">
+<br>
+
+<div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/shubham-kashyap-7b6774167/">
       <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
