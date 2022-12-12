@@ -3,7 +3,7 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif" width="200"/> -->
 <!--    <img src="https://pbs.twimg.com/media/FfarfQZX0AADrKJ?format=jpg&name=large" width="400"/> -->
-   <img src="https://media.giphy.com/media/1jvGYC4RX0FFa1RsLS/giphy.gif" width="50%"/>
+   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="150"/>
 </div>
 <br>
 <!-- // Social Link Buttons -->
@@ -27,6 +27,7 @@
 
 ### :hammer_and_wrench: Languages and Tecnologies :
 <div id = "languageAndTechnologies"> 
+   <h4> I have worked with technologies ranging from Augmented Reality, Low level Robotics, Mobile App Dev, Three Js Dev to Unreal Game Dev</h4>
    <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50" style = "pointer-events: none;"/>    
    </a>
