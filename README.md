@@ -26,15 +26,45 @@
 <hr>
 
 ### :hammer_and_wrench: Languages and Tecnologies :
-<div id = "languageAndTechnologies" style = "pointer-events: none;"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50" style = "pointer-events: none;"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "50"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "50"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "50"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>   
-   <img style="background-color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
+<div id = "languageAndTechnologies"> 
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50" style = "pointer-events: none;"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "50"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "50"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "50"/>    
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
+   </a>
+          
+   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+          <img style="background-color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
+   </a>
+
+          
+          
+      
+      
+      
+      
              
 </div>          
 <!-- https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif -->
@@ -45,6 +75,26 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkashyap7200&theme=gruvbox&border_radius=10.0&background=2D0064)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkashyap7200&theme=gruvbox&border_radius=10.0&background=2D0064)](https://git.io/streak-stats)
+ -->
+<!-- Mark - Stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=shubhamkashyap7200&show_icons=true&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff)"
+  media="(prefers-color-scheme: default)"/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=shubhamkashyap7200&show_icons=true&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff"
+  media="(prefers-color-scheme: default), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamkashyap7200&show_icons=true&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff" />
+</picture>
+
+<!-- Mark - Languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ 
+ <br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
