@@ -32,31 +32,31 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "50" style = "pointer-events: none;"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "50"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "50"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.blender.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width = "50"/>    
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noopener noreferrer">
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
    </a>
           
-   <a href="https://www.swift.org" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.rust-lang.org" target="_blank" rel="noopener noreferrer">
           <img style="background-color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
    </a>
 
