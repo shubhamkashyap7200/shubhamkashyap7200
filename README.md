@@ -79,7 +79,7 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamkashyap7200&theme=gruvbox&border_radius=10.0&background=2D0064)](https://git.io/streak-stats)
  -->
 <!-- Mark - Stats -->
-
+<div align = "center">
 <picture>
 <source 
   srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=shubhamkashyap7200&show_icons=true&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff)"
@@ -91,10 +91,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamkashyap7200&show_icons=true&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff" />
 </picture>
 
+<br>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!-- Mark - Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkashyap7200&layout=compact&theme=moltack&bg_color=0,4776E6,8E54E9&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
