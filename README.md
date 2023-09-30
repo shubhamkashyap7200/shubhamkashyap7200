@@ -1,11 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/UQfw1nVKibzRqmtqm4/giphy-downsized-large.gif" width="200"/> -->
-<!--    <img src="https://pbs.twimg.com/media/FfarfQZX0AADrKJ?format=jpg&name=large" width="400"/> -->
-   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="150"/>
-</div>
-<br>
 <!-- // Social Link Buttons -->
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/shubham-kashyap-7b6774167/" target="_blank" rel="noopener noreferrer">
